@@ -48,6 +48,8 @@ public class Main {
         }
         System.out.println();
 
+        //http://ideone.com/QU5yR1
+        //selection
         for (int b : m.Selection(c)) {
             System.out.print(b + ", ");
         }
